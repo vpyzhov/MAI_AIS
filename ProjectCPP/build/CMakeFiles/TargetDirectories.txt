@@ -1,0 +1,3 @@
+/home/vpyzhov/src/MAI_AIS/ProjectCPP/build/CMakeFiles/hellowWorld.dir
+/home/vpyzhov/src/MAI_AIS/ProjectCPP/build/CMakeFiles/edit_cache.dir
+/home/vpyzhov/src/MAI_AIS/ProjectCPP/build/CMakeFiles/rebuild_cache.dir
